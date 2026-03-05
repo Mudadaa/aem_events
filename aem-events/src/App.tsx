@@ -11,7 +11,7 @@ function App() {
         <header>
           
           <img src="./src/assets/aemeventsLogo.png" alt="logo A et M events"
-          class='border'
+      
           />
         </header>
         
